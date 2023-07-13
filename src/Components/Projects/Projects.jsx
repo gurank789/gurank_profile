@@ -177,6 +177,57 @@ export const Projects = () => {
               </div>
             </div>
           </div>
+          <div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              {/* Rest of the code */}
+              <div>
+                <a
+                  href="https://food-panda-1tj7cmk9o-gurank789.vercel.app"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span type="button" className="btns onbt onbt">
+                    See this Live
+                  </span>
+                </a>
+                <a
+                  href="https://github.com/gurank789/Food_panda"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span type="button" className="btns onbt">
+                    View Code
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              {/* Rest of the code */}
+              <div>
+                <a
+                  href="https://real-estate-website-lakixug0l-gurank789.vercel.app"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span type="button" className="btns onbt onbt">
+                    See this Live
+                  </span>
+                </a>
+                <a
+                  href="https://github.com/gurank789/Real-estate-website"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span type="button" className="btns onbt">
+                    View Code
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+          
         </div>
       </div>
     </>
