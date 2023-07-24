@@ -75,7 +75,7 @@ User experience and drive business objectives.”
           className="btnResume"
           onClick={() => {
             window.open(
-              "https://drive.google.com/file/d/1BYkDC7EzvsyLNqe1LyDc5F3Oxi-ieYgZ/view?usp=drive_link"
+              "https://drive.google.com/file/d/1Vmf86MdI3jaFQm5DzK8EheZlGSlu8_9t/view?usp=drive_link"
             );
           }}
         >
